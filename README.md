@@ -80,7 +80,3 @@ npx convex dev
 ```
 npm run dev
 ```
-
-## Acknowledgements
-
-[CodewithAntonio](https://www.youtube.com/@codewithantonio)
